@@ -1,0 +1,70 @@
+SELECT --> Data retrieval
+    
+INSERT
+UPDATE  --> Data manipulation language (DML)
+DELETE
+
+CREATE
+ALTER
+DROP   --> Data definition language (DDL)
+RENAME
+TRUNCATE
+
+COMMIT
+ROLLBACK --> Transaction control
+SAVEPOINT
+
+GRANT
+REVOKE   --> Data control language (DCL)
+
+--------------
+
+CHARACTER FUNCTIONS
+
+LOWER 							CONCAT ...
+UPPER				
+INITCAP
+
+
+DATE FUNCTIONS
+-------
+
+MONTHS_BETWEEN
+
+ADD_MONTHS
+
+NEXT_DAY
+
+LAST_DAY
+
+
+CURRENT_TIMESTAMP
+
+
+------
+
+CASE 
+
+ELSE
+
+
+
+Snapshot
+
+Slowly Changing Dimension
+
+
+Intellica Products:
+
+ICC
+RETOUCH
+Retable
+VAR
+ITDM
+IFDM
+
+ETL vs. ELT
+
+--> ETL -- informatica
+--> ELT -- ODI
+
